@@ -1,6 +1,6 @@
 from flask import Flask, render_template, request
+from flask_cors import cross_origin
 import requests
-from bs4 import BeautifulSoup as bs 
 import logging
 import re
 
@@ -8,10 +8,12 @@ logging.basicConfig(filename='scrapper.log', level=logging.INFO)
 app = Flask(__name__)
 
 @app.route('/', methods=["GET"])
+@cross_origin()
 def homepage():
     return render_template('in.html')
 
 @app.route('/data', methods=["POST", "GET"])
+@cross_origin()
 def result():
     if request.method == 'POST':
         final_data = []
