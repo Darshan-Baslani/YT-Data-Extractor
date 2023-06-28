@@ -27,6 +27,7 @@ def result():
             raw_code = response.text
             logging.info('Response Got Successfully!')
 
+            ## creating csv
             filename = search + '.csv'
             file_csv = open(filename, 'w')
             headers = 'title, url, thumbnail, views, posted \n'
@@ -41,7 +42,7 @@ def result():
                     vid_url.append('https://www.youtube.com'+url_list[index])
                 logging.info('URL fetched successfully!')
             except Exception as e:
-                logging.info(e)
+                logging.warning(e)
 
             # task-3 get thumbnail url's
             try:
@@ -49,7 +50,7 @@ def result():
                 vid_thumbnail = re.findall(pattern, raw_code)
                 logging.info('Thumbails fetched successfully!')
             except Exception as e:
-                logging.info(e)
+                logging.warning(e)
 
             # task-4 get title
             try:
@@ -61,7 +62,7 @@ def result():
                     vid_title.append(temp)
                 logging.info('Title fetched successfully')
             except Exception as e:
-                logging.info(e)
+                logging.warning(e)
 
             # task-5 get no of views
             try:
@@ -73,7 +74,7 @@ def result():
                     vid_view.append(temp)
                 logging.info('No of views fetched successfully')
             except Exception as e:
-                logging.info(e)
+                logging.warning(e)
 
             # task-6 time of posting
             try:
@@ -85,23 +86,39 @@ def result():
                     vid_post.append(temp)
                 logging.info('Time of Post fetched successfully')
             except Exception as e:
-                logging.info(e)
+                logging.warning(e)
+            
 
-            data_dict = {
-                'title' : vid_title[0 : 5],
-                'url' : vid_url[0 : 5],
-                'thumbnail' : vid_thumbnail[0 : 5],
-                'views' : vid_view[0 : 5],
-                'posted' : vid_post[0 : 5]
-            }
-            final_data.append(data_dict)
+             # task-7 filter data
+            for i in range(5):
+                final_data.append(vid_title[i].strip('"'))
+                file_csv.write(vid_title[i].strip('"'))
+                file_csv.write(',')
+
+                final_data.append(vid_url[i].strip('"'))
+                file_csv.write(vid_url[i].strip('"'))
+                file_csv.write(',')
+
+                final_data.append(vid_thumbnail[i].strip('"'))
+                file_csv.write(vid_thumbnail[i].strip('"'))
+                file_csv.write(',')
+
+                final_data.append(vid_view[i].strip('"'))
+                file_csv.write(vid_view[i].strip('"'))
+                file_csv.write(',')
+
+                final_data.append(vid_post[i].strip('"'))
+                file_csv.write(vid_post[i].strip('"'))
+                file_csv.write(',')
+                file_csv.write('\n')
 
             logging.info(f'Final Data: {final_data}')
             
             return render_template('results.html', data=final_data)
 
         except Exception as e:
-            logging.info(e)
+            logging.warning(e)
+            file_csv.close()
             return str(e)
     else:
         return render_template('in.html')

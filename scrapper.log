@@ -1,0 +1,227 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:Response Got Successfully!
+INFO:root:URL fetched successfully!
+INFO:root:Thumbails fetched successfully!
+INFO:root:Title fetched successfully
+INFO:root:No of views fetched successfully
+INFO:root:Time of Post fetched successfully
+INFO:root:Final Data: {'title': ['\u26a1Unleashing the Power of PW Internationally\u26a1| Launching Physics Wallah Gulf', 'Big Announcement for Gulf Region Aspirants \U0001f525| Physics Wallah Gulf Channel Trailer\U0001f680', 'Arjuna JEE v/s Arjuna NEET \U0001f3cf- Class 11th Faculties ka Cricket Match \U0001f525', 'How to Study Zoology in Class 11th? Ab Saare Doubts Solve Honge !! \U0001f525', 'BIGGEST OFFER For Class - 8th ,9th \\u0026 10th Students \U0001f929 || Grab This Opportunity Now \U0001f525'], 'url': ['https://www.youtube.com/watch?v=1izKrQHyx9M', 'https://www.youtube.com/watch?v=jXAb1evxaJc', 'https://www.youtube.com/watch?v=2dn7XMxRtPE', 'https://www.youtube.com/watch?v=Fks4dVnTb5M', 'https://www.youtube.com/watch?v=nIuGXeISbSo'], 'thumbnail': ['https://i.ytimg.com/vi/1izKrQHyx9M/hqdefault.jpg', 'https://i.ytimg.com/vi/1izKrQHyx9M/hqdefault.jpg', 'https://i.ytimg.com/vi/1izKrQHyx9M/hqdefault.jpg', 'https://i.ytimg.com/vi/1izKrQHyx9M/hqdefault.jpg', 'https://i.ytimg.com/vi/jXAb1evxaJc/hqdefault.jpg'], 'views': ['57,574 views', '81,004 views', '330,294 views', '10,243 views', '38,920 views'], 'posted': ['10 days ago', '2 weeks ago', '2 weeks ago', '4 weeks ago', '4 weeks ago']}
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2023 09:43:07] "POST /data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2023 09:43:07] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2023 09:45:08] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2023 09:45:08] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:Response Got Successfully!
+INFO:root:URL fetched successfully!
+INFO:root:Thumbails fetched successfully!
+INFO:root:Title fetched successfully
+INFO:root:No of views fetched successfully
+INFO:root:Time of Post fetched successfully
+INFO:root:Final Data: {'title': ['\u26a1Unleashing the Power of PW Internationally\u26a1| Launching Physics Wallah Gulf', 'Big Announcement for Gulf Region Aspirants \U0001f525| Physics Wallah Gulf Channel Trailer\U0001f680', 'Arjuna JEE v/s Arjuna NEET \U0001f3cf- Class 11th Faculties ka Cricket Match \U0001f525', 'How to Study Zoology in Class 11th? Ab Saare Doubts Solve Honge !! \U0001f525', 'BIGGEST OFFER For Class - 8th ,9th \\u0026 10th Students \U0001f929 || Grab This Opportunity Now \U0001f525'], 'url': ['https://www.youtube.com/watch?v=1izKrQHyx9M', 'https://www.youtube.com/watch?v=jXAb1evxaJc', 'https://www.youtube.com/watch?v=2dn7XMxRtPE', 'https://www.youtube.com/watch?v=Fks4dVnTb5M', 'https://www.youtube.com/watch?v=nIuGXeISbSo'], 'thumbnail': ['https://i.ytimg.com/vi/1izKrQHyx9M/hqdefault.jpg', 'https://i.ytimg.com/vi/1izKrQHyx9M/hqdefault.jpg', 'https://i.ytimg.com/vi/1izKrQHyx9M/hqdefault.jpg', 'https://i.ytimg.com/vi/1izKrQHyx9M/hqdefault.jpg', 'https://i.ytimg.com/vi/jXAb1evxaJc/hqdefault.jpg'], 'views': ['57,574 views', '81,009 views', '330,294 views', '10,243 views', '38,920 views'], 'posted': ['10 days ago', '2 weeks ago', '2 weeks ago', '4 weeks ago', '4 weeks ago']}
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2023 09:45:09] "POST /data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2023 09:45:09] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2023 09:46:56] "[33mGET /null HTTP/1.1[0m" 404 -
+INFO:root:Response Got Successfully!
+INFO:root:URL fetched successfully!
+INFO:root:Thumbails fetched successfully!
+INFO:root:Title fetched successfully
+INFO:root:No of views fetched successfully
+INFO:root:Time of Post fetched successfully
+INFO:root:Final Data: {'title': ['\u26a1Unleashing the Power of PW Internationally\u26a1| Launching Physics Wallah Gulf', 'Big Announcement for Gulf Region Aspirants \U0001f525| Physics Wallah Gulf Channel Trailer\U0001f680', 'Arjuna JEE v/s Arjuna NEET \U0001f3cf- Class 11th Faculties ka Cricket Match \U0001f525', 'How to Study Zoology in Class 11th? Ab Saare Doubts Solve Honge !! \U0001f525', 'BIGGEST OFFER For Class - 8th ,9th \\u0026 10th Students \U0001f929 || Grab This Opportunity Now \U0001f525'], 'url': ['https://www.youtube.com/watch?v=1izKrQHyx9M', 'https://www.youtube.com/watch?v=jXAb1evxaJc', 'https://www.youtube.com/watch?v=2dn7XMxRtPE', 'https://www.youtube.com/watch?v=Fks4dVnTb5M', 'https://www.youtube.com/watch?v=nIuGXeISbSo'], 'thumbnail': ['https://i.ytimg.com/vi/1izKrQHyx9M/hqdefault.jpg', 'https://i.ytimg.com/vi/1izKrQHyx9M/hqdefault.jpg', 'https://i.ytimg.com/vi/1izKrQHyx9M/hqdefault.jpg', 'https://i.ytimg.com/vi/1izKrQHyx9M/hqdefault.jpg', 'https://i.ytimg.com/vi/jXAb1evxaJc/hqdefault.jpg'], 'views': ['57,574 views', '81,009 views', '330,304 views', '10,243 views', '38,920 views'], 'posted': ['10 days ago', '2 weeks ago', '2 weeks ago', '4 weeks ago', '4 weeks ago']}
+WARNING:root:list object has no element 1
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2023 09:46:57] "POST /data HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2023 09:50:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2023 09:50:12] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2023 09:50:12] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:Response Got Successfully!
+INFO:root:URL fetched successfully!
+INFO:root:Thumbails fetched successfully!
+INFO:root:Title fetched successfully
+INFO:root:No of views fetched successfully
+INFO:root:Time of Post fetched successfully
+INFO:root:Final Data: {'title': ['\u26a1Unleashing the Power of PW Internationally\u26a1| Launching Physics Wallah Gulf', 'Big Announcement for Gulf Region Aspirants \U0001f525| Physics Wallah Gulf Channel Trailer\U0001f680', 'Arjuna JEE v/s Arjuna NEET \U0001f3cf- Class 11th Faculties ka Cricket Match \U0001f525', 'How to Study Zoology in Class 11th? Ab Saare Doubts Solve Honge !! \U0001f525', 'BIGGEST OFFER For Class - 8th ,9th \\u0026 10th Students \U0001f929 || Grab This Opportunity Now \U0001f525'], 'url': ['https://www.youtube.com/watch?v=1izKrQHyx9M', 'https://www.youtube.com/watch?v=jXAb1evxaJc', 'https://www.youtube.com/watch?v=2dn7XMxRtPE', 'https://www.youtube.com/watch?v=Fks4dVnTb5M', 'https://www.youtube.com/watch?v=nIuGXeISbSo'], 'thumbnail': ['https://i.ytimg.com/vi/1izKrQHyx9M/hqdefault.jpg', 'https://i.ytimg.com/vi/1izKrQHyx9M/hqdefault.jpg', 'https://i.ytimg.com/vi/1izKrQHyx9M/hqdefault.jpg', 'https://i.ytimg.com/vi/1izKrQHyx9M/hqdefault.jpg', 'https://i.ytimg.com/vi/jXAb1evxaJc/hqdefault.jpg'], 'views': ['57,574 views', '81,013 views', '330,311 views', '10,243 views', '38,920 views'], 'posted': ['10 days ago', '2 weeks ago', '2 weeks ago', '4 weeks ago', '4 weeks ago']}
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2023 09:50:14] "POST /data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2023 09:50:15] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2023 09:52:40] "[33mGET /null HTTP/1.1[0m" 404 -
+INFO:root:Response Got Successfully!
+INFO:root:URL fetched successfully!
+INFO:root:Thumbails fetched successfully!
+INFO:root:Title fetched successfully
+INFO:root:No of views fetched successfully
+INFO:root:Time of Post fetched successfully
+INFO:root:Final Data: {'title': ['\u26a1Unleashing the Power of PW Internationally\u26a1| Launching Physics Wallah Gulf', 'Big Announcement for Gulf Region Aspirants \U0001f525| Physics Wallah Gulf Channel Trailer\U0001f680', 'Arjuna JEE v/s Arjuna NEET \U0001f3cf- Class 11th Faculties ka Cricket Match \U0001f525', 'How to Study Zoology in Class 11th? Ab Saare Doubts Solve Honge !! \U0001f525', 'BIGGEST OFFER For Class - 8th ,9th \\u0026 10th Students \U0001f929 || Grab This Opportunity Now \U0001f525'], 'url': ['https://www.youtube.com/watch?v=1izKrQHyx9M', 'https://www.youtube.com/watch?v=jXAb1evxaJc', 'https://www.youtube.com/watch?v=2dn7XMxRtPE', 'https://www.youtube.com/watch?v=Fks4dVnTb5M', 'https://www.youtube.com/watch?v=nIuGXeISbSo'], 'thumbnail': ['https://i.ytimg.com/vi/1izKrQHyx9M/hqdefault.jpg', 'https://i.ytimg.com/vi/1izKrQHyx9M/hqdefault.jpg', 'https://i.ytimg.com/vi/1izKrQHyx9M/hqdefault.jpg', 'https://i.ytimg.com/vi/1izKrQHyx9M/hqdefault.jpg', 'https://i.ytimg.com/vi/jXAb1evxaJc/hqdefault.jpg'], 'views': ['57,576 views', '81,013 views', '330,311 views', '10,243 views', '38,920 views'], 'posted': ['10 days ago', '2 weeks ago', '2 weeks ago', '4 weeks ago', '4 weeks ago']}
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2023 09:52:40] "POST /data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2023 09:52:41] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:Response Got Successfully!
+INFO:root:URL fetched successfully!
+INFO:root:Thumbails fetched successfully!
+INFO:root:Title fetched successfully
+INFO:root:No of views fetched successfully
+INFO:root:Time of Post fetched successfully
+INFO:root:Final Data: {'title': ['\u26a1Unleashing the Power of PW Internationally\u26a1| Launching Physics Wallah Gulf', 'Big Announcement for Gulf Region Aspirants \U0001f525| Physics Wallah Gulf Channel Trailer\U0001f680', 'Arjuna JEE v/s Arjuna NEET \U0001f3cf- Class 11th Faculties ka Cricket Match \U0001f525', 'How to Study Zoology in Class 11th? Ab Saare Doubts Solve Honge !! \U0001f525', 'BIGGEST OFFER For Class - 8th ,9th \\u0026 10th Students \U0001f929 || Grab This Opportunity Now \U0001f525'], 'url': ['https://www.youtube.com/watch?v=1izKrQHyx9M', 'https://www.youtube.com/watch?v=jXAb1evxaJc', 'https://www.youtube.com/watch?v=2dn7XMxRtPE', 'https://www.youtube.com/watch?v=Fks4dVnTb5M', 'https://www.youtube.com/watch?v=nIuGXeISbSo'], 'thumbnail': ['https://i.ytimg.com/vi/1izKrQHyx9M/hqdefault.jpg', 'https://i.ytimg.com/vi/1izKrQHyx9M/hqdefault.jpg', 'https://i.ytimg.com/vi/1izKrQHyx9M/hqdefault.jpg', 'https://i.ytimg.com/vi/1izKrQHyx9M/hqdefault.jpg', 'https://i.ytimg.com/vi/jXAb1evxaJc/hqdefault.jpg'], 'views': ['57,576 views', '81,013 views', '330,311 views', '10,243 views', '38,920 views'], 'posted': ['10 days ago', '2 weeks ago', '2 weeks ago', '4 weeks ago', '4 weeks ago']}
+WARNING:root:Encountered unknown tag 'i'.
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2023 09:53:00] "POST /data HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2023 09:54:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2023 09:54:53] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2023 09:54:53] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2023 09:54:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2023 09:54:53] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2023 09:54:53] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2023 09:54:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2023 09:54:53] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2023 09:54:53] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:Response Got Successfully!
+INFO:root:URL fetched successfully!
+INFO:root:Thumbails fetched successfully!
+INFO:root:Title fetched successfully
+INFO:root:No of views fetched successfully
+INFO:root:Time of Post fetched successfully
+INFO:root:Final Data: {'title': ['\u26a1Unleashing the Power of PW Internationally\u26a1| Launching Physics Wallah Gulf', 'Big Announcement for Gulf Region Aspirants \U0001f525| Physics Wallah Gulf Channel Trailer\U0001f680', 'Arjuna JEE v/s Arjuna NEET \U0001f3cf- Class 11th Faculties ka Cricket Match \U0001f525', 'How to Study Zoology in Class 11th? Ab Saare Doubts Solve Honge !! \U0001f525', 'BIGGEST OFFER For Class - 8th ,9th \\u0026 10th Students \U0001f929 || Grab This Opportunity Now \U0001f525'], 'url': ['https://www.youtube.com/watch?v=1izKrQHyx9M', 'https://www.youtube.com/watch?v=jXAb1evxaJc', 'https://www.youtube.com/watch?v=2dn7XMxRtPE', 'https://www.youtube.com/watch?v=Fks4dVnTb5M', 'https://www.youtube.com/watch?v=nIuGXeISbSo'], 'thumbnail': ['https://i.ytimg.com/vi/1izKrQHyx9M/hqdefault.jpg', 'https://i.ytimg.com/vi/1izKrQHyx9M/hqdefault.jpg', 'https://i.ytimg.com/vi/1izKrQHyx9M/hqdefault.jpg', 'https://i.ytimg.com/vi/1izKrQHyx9M/hqdefault.jpg', 'https://i.ytimg.com/vi/jXAb1evxaJc/hqdefault.jpg'], 'views': ['57,576 views', '81,013 views', '330,323 views', '10,243 views', '38,920 views'], 'posted': ['10 days ago', '2 weeks ago', '2 weeks ago', '4 weeks ago', '4 weeks ago']}
+WARNING:root:Encountered unknown tag 'break'. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2023 09:54:55] "POST /data HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2023 09:55:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2023 09:55:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2023 09:55:30] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2023 09:55:30] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:Response Got Successfully!
+INFO:root:URL fetched successfully!
+INFO:root:Thumbails fetched successfully!
+INFO:root:Title fetched successfully
+INFO:root:No of views fetched successfully
+INFO:root:Time of Post fetched successfully
+INFO:root:Final Data: {'title': ['\u26a1Unleashing the Power of PW Internationally\u26a1| Launching Physics Wallah Gulf', 'Big Announcement for Gulf Region Aspirants \U0001f525| Physics Wallah Gulf Channel Trailer\U0001f680', 'Arjuna JEE v/s Arjuna NEET \U0001f3cf- Class 11th Faculties ka Cricket Match \U0001f525', 'How to Study Zoology in Class 11th? Ab Saare Doubts Solve Honge !! \U0001f525', 'BIGGEST OFFER For Class - 8th ,9th \\u0026 10th Students \U0001f929 || Grab This Opportunity Now \U0001f525'], 'url': ['https://www.youtube.com/watch?v=1izKrQHyx9M', 'https://www.youtube.com/watch?v=jXAb1evxaJc', 'https://www.youtube.com/watch?v=2dn7XMxRtPE', 'https://www.youtube.com/watch?v=Fks4dVnTb5M', 'https://www.youtube.com/watch?v=nIuGXeISbSo'], 'thumbnail': ['https://i.ytimg.com/vi/1izKrQHyx9M/hqdefault.jpg', 'https://i.ytimg.com/vi/1izKrQHyx9M/hqdefault.jpg', 'https://i.ytimg.com/vi/1izKrQHyx9M/hqdefault.jpg', 'https://i.ytimg.com/vi/1izKrQHyx9M/hqdefault.jpg', 'https://i.ytimg.com/vi/jXAb1evxaJc/hqdefault.jpg'], 'views': ['57,576 views', '81,017 views', '330,323 views', '10,243 views', '38,920 views'], 'posted': ['10 days ago', '2 weeks ago', '2 weeks ago', '4 weeks ago', '4 weeks ago']}
+WARNING:root:Encountered unknown tag 'break'. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2023 09:55:32] "POST /data HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2023 09:56:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2023 09:56:26] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2023 09:56:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2023 09:56:26] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2023 09:56:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2023 09:56:26] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2023 09:56:26] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:Response Got Successfully!
+INFO:root:URL fetched successfully!
+INFO:root:Thumbails fetched successfully!
+INFO:root:Title fetched successfully
+INFO:root:No of views fetched successfully
+INFO:root:Time of Post fetched successfully
+INFO:root:Final Data: {'title': ['\u26a1Unleashing the Power of PW Internationally\u26a1| Launching Physics Wallah Gulf', 'Big Announcement for Gulf Region Aspirants \U0001f525| Physics Wallah Gulf Channel Trailer\U0001f680', 'Arjuna JEE v/s Arjuna NEET \U0001f3cf- Class 11th Faculties ka Cricket Match \U0001f525', 'How to Study Zoology in Class 11th? Ab Saare Doubts Solve Honge !! \U0001f525', 'BIGGEST OFFER For Class - 8th ,9th \\u0026 10th Students \U0001f929 || Grab This Opportunity Now \U0001f525'], 'url': ['https://www.youtube.com/watch?v=1izKrQHyx9M', 'https://www.youtube.com/watch?v=jXAb1evxaJc', 'https://www.youtube.com/watch?v=2dn7XMxRtPE', 'https://www.youtube.com/watch?v=Fks4dVnTb5M', 'https://www.youtube.com/watch?v=nIuGXeISbSo'], 'thumbnail': ['https://i.ytimg.com/vi/1izKrQHyx9M/hqdefault.jpg', 'https://i.ytimg.com/vi/1izKrQHyx9M/hqdefault.jpg', 'https://i.ytimg.com/vi/1izKrQHyx9M/hqdefault.jpg', 'https://i.ytimg.com/vi/1izKrQHyx9M/hqdefault.jpg', 'https://i.ytimg.com/vi/jXAb1evxaJc/hqdefault.jpg'], 'views': ['57,576 views', '81,017 views', '330,323 views', '10,243 views', '38,920 views'], 'posted': ['10 days ago', '2 weeks ago', '2 weeks ago', '4 weeks ago', '4 weeks ago']}
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2023 09:56:28] "POST /data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2023 09:56:28] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2023 10:03:49] "[33mGET /null HTTP/1.1[0m" 404 -
+INFO:root:Response Got Successfully!
+INFO:root:URL fetched successfully!
+INFO:root:Thumbails fetched successfully!
+INFO:root:Title fetched successfully
+INFO:root:No of views fetched successfully
+INFO:root:Time of Post fetched successfully
+INFO:root:Final Data: {'title': ['\u26a1Unleashing the Power of PW Internationally\u26a1| Launching Physics Wallah Gulf', 'Big Announcement for Gulf Region Aspirants \U0001f525| Physics Wallah Gulf Channel Trailer\U0001f680', 'Arjuna JEE v/s Arjuna NEET \U0001f3cf- Class 11th Faculties ka Cricket Match \U0001f525', 'How to Study Zoology in Class 11th? Ab Saare Doubts Solve Honge !! \U0001f525', 'BIGGEST OFFER For Class - 8th ,9th \\u0026 10th Students \U0001f929 || Grab This Opportunity Now \U0001f525'], 'url': ['https://www.youtube.com/watch?v=1izKrQHyx9M', 'https://www.youtube.com/watch?v=jXAb1evxaJc', 'https://www.youtube.com/watch?v=2dn7XMxRtPE', 'https://www.youtube.com/watch?v=Fks4dVnTb5M', 'https://www.youtube.com/watch?v=nIuGXeISbSo'], 'thumbnail': ['https://i.ytimg.com/vi/1izKrQHyx9M/hqdefault.jpg', 'https://i.ytimg.com/vi/1izKrQHyx9M/hqdefault.jpg', 'https://i.ytimg.com/vi/1izKrQHyx9M/hqdefault.jpg', 'https://i.ytimg.com/vi/1izKrQHyx9M/hqdefault.jpg', 'https://i.ytimg.com/vi/jXAb1evxaJc/hqdefault.jpg'], 'views': ['57,578 views', '81,020 views', '330,342 views', '10,243 views', '38,920 views'], 'posted': ['10 days ago', '2 weeks ago', '2 weeks ago', '4 weeks ago', '4 weeks ago']}
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2023 10:03:50] "POST /data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2023 10:03:50] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2023 10:04:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2023 10:04:50] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2023 10:04:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2023 10:04:50] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2023 10:04:50] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2023 10:04:51] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:Response Got Successfully!
+INFO:root:URL fetched successfully!
+INFO:root:Thumbails fetched successfully!
+INFO:root:Title fetched successfully
+INFO:root:No of views fetched successfully
+INFO:root:Time of Post fetched successfully
+INFO:root:Final Data: {'title': ['\u26a1Unleashing the Power of PW Internationally\u26a1| Launching Physics Wallah Gulf', 'Big Announcement for Gulf Region Aspirants \U0001f525| Physics Wallah Gulf Channel Trailer\U0001f680', 'Arjuna JEE v/s Arjuna NEET \U0001f3cf- Class 11th Faculties ka Cricket Match \U0001f525', 'How to Study Zoology in Class 11th? Ab Saare Doubts Solve Honge !! \U0001f525', 'BIGGEST OFFER For Class - 8th ,9th \\u0026 10th Students \U0001f929 || Grab This Opportunity Now \U0001f525'], 'url': ['https://www.youtube.com/watch?v=1izKrQHyx9M', 'https://www.youtube.com/watch?v=jXAb1evxaJc', 'https://www.youtube.com/watch?v=2dn7XMxRtPE', 'https://www.youtube.com/watch?v=Fks4dVnTb5M', 'https://www.youtube.com/watch?v=nIuGXeISbSo'], 'thumbnail': ['https://i.ytimg.com/vi/1izKrQHyx9M/hqdefault.jpg', 'https://i.ytimg.com/vi/1izKrQHyx9M/hqdefault.jpg', 'https://i.ytimg.com/vi/1izKrQHyx9M/hqdefault.jpg', 'https://i.ytimg.com/vi/1izKrQHyx9M/hqdefault.jpg', 'https://i.ytimg.com/vi/jXAb1evxaJc/hqdefault.jpg'], 'views': ['57,578 views', '81,020 views', '330,342 views', '10,243 views', '38,920 views'], 'posted': ['10 days ago', '2 weeks ago', '2 weeks ago', '4 weeks ago', '4 weeks ago']}
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2023 10:04:55] "POST /data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2023 10:04:55] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:Response Got Successfully!
+INFO:root:URL fetched successfully!
+INFO:root:Thumbails fetched successfully!
+INFO:root:Title fetched successfully
+INFO:root:No of views fetched successfully
+INFO:root:Time of Post fetched successfully
+INFO:root:Final Data: {'title': ['\u26a1Unleashing the Power of PW Internationally\u26a1| Launching Physics Wallah Gulf', 'Big Announcement for Gulf Region Aspirants \U0001f525| Physics Wallah Gulf Channel Trailer\U0001f680', 'Arjuna JEE v/s Arjuna NEET \U0001f3cf- Class 11th Faculties ka Cricket Match \U0001f525', 'How to Study Zoology in Class 11th? Ab Saare Doubts Solve Honge !! \U0001f525', 'BIGGEST OFFER For Class - 8th ,9th \\u0026 10th Students \U0001f929 || Grab This Opportunity Now \U0001f525'], 'url': ['https://www.youtube.com/watch?v=1izKrQHyx9M', 'https://www.youtube.com/watch?v=jXAb1evxaJc', 'https://www.youtube.com/watch?v=2dn7XMxRtPE', 'https://www.youtube.com/watch?v=Fks4dVnTb5M', 'https://www.youtube.com/watch?v=nIuGXeISbSo'], 'thumbnail': ['https://i.ytimg.com/vi/1izKrQHyx9M/hqdefault.jpg', 'https://i.ytimg.com/vi/1izKrQHyx9M/hqdefault.jpg', 'https://i.ytimg.com/vi/1izKrQHyx9M/hqdefault.jpg', 'https://i.ytimg.com/vi/1izKrQHyx9M/hqdefault.jpg', 'https://i.ytimg.com/vi/jXAb1evxaJc/hqdefault.jpg'], 'views': ['57,579 views', '81,023 views', '330,342 views', '10,243 views', '38,920 views'], 'posted': ['10 days ago', '2 weeks ago', '2 weeks ago', '4 weeks ago', '4 weeks ago']}
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2023 10:05:39] "POST /data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2023 10:05:39] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:Response Got Successfully!
+INFO:root:URL fetched successfully!
+INFO:root:Thumbails fetched successfully!
+INFO:root:Title fetched successfully
+INFO:root:No of views fetched successfully
+INFO:root:Time of Post fetched successfully
+INFO:root:Final Data: {'title': ['1440x1080 0.42 800 dpi.', 'Fragging with every agent in VALORANT', 'JUST GIVE ME JETT!!!!!', '4', 'SkRossi- Representing INDIA (Valorant Montage)'], 'url': ['https://www.youtube.com/watch?v=AR', 'https://www.youtube.com/watch?v=bsRqnYxrYr4', 'https://www.youtube.com/watch?v=GmfsKORCI1Y', 'https://www.youtube.com/watch?v=gqVmWkDjrQI', 'https://www.youtube.com/watch?v=FFdPlq8MgXY'], 'thumbnail': ['https://i.ytimg.com/vi/AR-tg22eeZQ/hqdefault.jpg', 'https://i.ytimg.com/vi/AR-tg22eeZQ/hqdefault.jpg', 'https://i.ytimg.com/vi/AR-tg22eeZQ/hqdefault.jpg', 'https://i.ytimg.com/vi/AR-tg22eeZQ/hqdefault.jpg', 'https://i.ytimg.com/vi/bsRqnYxrYr4/hqdefault.jpg'], 'views': ['14,058 views', '26,887 views', '42,825 views', '34,440 views', '69,321 views'], 'posted': ['15 hours ago', '2 months ago', '2 months ago', '2 months ago', '3 months ago']}
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2023 10:05:48] "POST /data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2023 10:05:48] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:Response Got Successfully!
+INFO:root:URL fetched successfully!
+INFO:root:Thumbails fetched successfully!
+INFO:root:Title fetched successfully
+INFO:root:No of views fetched successfully
+INFO:root:Time of Post fetched successfully
+INFO:root:Final Data: {'title': ['1440x1080 0.42 800 dpi.', 'Fragging with every agent in VALORANT', 'JUST GIVE ME JETT!!!!!', '4', 'SkRossi- Representing INDIA (Valorant Montage)'], 'url': ['https://www.youtube.com/watch?v=AR', 'https://www.youtube.com/watch?v=bsRqnYxrYr4', 'https://www.youtube.com/watch?v=GmfsKORCI1Y', 'https://www.youtube.com/watch?v=gqVmWkDjrQI', 'https://www.youtube.com/watch?v=FFdPlq8MgXY'], 'thumbnail': ['https://i.ytimg.com/vi/AR-tg22eeZQ/hqdefault.jpg', 'https://i.ytimg.com/vi/AR-tg22eeZQ/hqdefault.jpg', 'https://i.ytimg.com/vi/AR-tg22eeZQ/hqdefault.jpg', 'https://i.ytimg.com/vi/AR-tg22eeZQ/hqdefault.jpg', 'https://i.ytimg.com/vi/bsRqnYxrYr4/hqdefault.jpg'], 'views': ['14,081 views', '26,887 views', '42,825 views', '34,440 views', '69,321 views'], 'posted': ['15 hours ago', '2 months ago', '2 months ago', '2 months ago', '3 months ago']}
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2023 10:09:36] "POST /data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2023 10:09:36] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:Response Got Successfully!
+INFO:root:URL fetched successfully!
+INFO:root:Thumbails fetched successfully!
+INFO:root:Title fetched successfully
+INFO:root:No of views fetched successfully
+INFO:root:Time of Post fetched successfully
+INFO:root:Final Data: {'title': ['1440x1080 0.42 800 dpi.', 'Fragging with every agent in VALORANT', 'JUST GIVE ME JETT!!!!!', '4', 'SkRossi- Representing INDIA (Valorant Montage)'], 'url': ['https://www.youtube.com/watch?v=AR', 'https://www.youtube.com/watch?v=bsRqnYxrYr4', 'https://www.youtube.com/watch?v=GmfsKORCI1Y', 'https://www.youtube.com/watch?v=gqVmWkDjrQI', 'https://www.youtube.com/watch?v=FFdPlq8MgXY'], 'thumbnail': ['https://i.ytimg.com/vi/AR-tg22eeZQ/hqdefault.jpg', 'https://i.ytimg.com/vi/AR-tg22eeZQ/hqdefault.jpg', 'https://i.ytimg.com/vi/AR-tg22eeZQ/hqdefault.jpg', 'https://i.ytimg.com/vi/AR-tg22eeZQ/hqdefault.jpg', 'https://i.ytimg.com/vi/bsRqnYxrYr4/hqdefault.jpg'], 'views': ['14,097 views', '26,887 views', '42,825 views', '34,441 views', '69,321 views'], 'posted': ['15 hours ago', '2 months ago', '2 months ago', '2 months ago', '3 months ago']}
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2023 10:15:53] "POST /data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2023 10:15:53] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:Response Got Successfully!
+INFO:root:URL fetched successfully!
+INFO:root:Thumbails fetched successfully!
+INFO:root:Title fetched successfully
+INFO:root:No of views fetched successfully
+INFO:root:Time of Post fetched successfully
+INFO:root:Final Data: ['1440x1080 0.42 800 dpi.', 'https://www.youtube.com/watch?v=AR', 'https://i.ytimg.com/vi/AR-tg22eeZQ/hqdefault.jpg', '14,097 views', '15 hours ago', 'Fragging with every agent in VALORANT', 'https://www.youtube.com/watch?v=bsRqnYxrYr4', 'https://i.ytimg.com/vi/AR-tg22eeZQ/hqdefault.jpg', '26,887 views', '2 months ago', 'JUST GIVE ME JETT!!!!!', 'https://www.youtube.com/watch?v=GmfsKORCI1Y', 'https://i.ytimg.com/vi/AR-tg22eeZQ/hqdefault.jpg', '42,825 views', '2 months ago', '4', 'https://www.youtube.com/watch?v=gqVmWkDjrQI', 'https://i.ytimg.com/vi/AR-tg22eeZQ/hqdefault.jpg', '34,441 views', '2 months ago', 'SkRossi- Representing INDIA (Valorant Montage)', 'https://www.youtube.com/watch?v=FFdPlq8MgXY', 'https://i.ytimg.com/vi/bsRqnYxrYr4/hqdefault.jpg', '69,321 views', '3 months ago']
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2023 10:16:32] "POST /data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2023 10:16:32] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:Response Got Successfully!
+INFO:root:URL fetched successfully!
+INFO:root:Thumbails fetched successfully!
+INFO:root:Title fetched successfully
+INFO:root:No of views fetched successfully
+INFO:root:Time of Post fetched successfully
+INFO:root:Final Data: ['1440x1080 0.42 800 dpi.', 'https://www.youtube.com/watch?v=AR', 'https://i.ytimg.com/vi/AR-tg22eeZQ/hqdefault.jpg', '14,110 views', '15 hours ago', 'Fragging with every agent in VALORANT', 'https://www.youtube.com/watch?v=bsRqnYxrYr4', 'https://i.ytimg.com/vi/AR-tg22eeZQ/hqdefault.jpg', '26,887 views', '2 months ago', 'JUST GIVE ME JETT!!!!!', 'https://www.youtube.com/watch?v=GmfsKORCI1Y', 'https://i.ytimg.com/vi/AR-tg22eeZQ/hqdefault.jpg', '42,825 views', '2 months ago', '4', 'https://www.youtube.com/watch?v=gqVmWkDjrQI', 'https://i.ytimg.com/vi/AR-tg22eeZQ/hqdefault.jpg', '34,441 views', '2 months ago', 'SkRossi- Representing INDIA (Valorant Montage)', 'https://www.youtube.com/watch?v=FFdPlq8MgXY', 'https://i.ytimg.com/vi/bsRqnYxrYr4/hqdefault.jpg', '69,321 views', '3 months ago']
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2023 10:17:58] "POST /data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2023 10:17:58] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2023 10:19:28] "[33mGET /null HTTP/1.1[0m" 404 -

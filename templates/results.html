@@ -1,41 +1,37 @@
 <!DOCTYPE html>
-<html lang="en" >
+<html lang="en">
 
 <head>
   <meta charset="UTF-8">
   <title>Content Page</title>
-    <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
-
-
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
 </head>
 
 <body>
-
   <div class="table-users">
     <div class="header"></div>
 
-   <table cellspacing="0" border="1">
+    <table cellspacing="0" border="1">
       <tr border="1">
-         <th>Title</th>
-         <th>URL</th>
-         <th>Thumbnail URL</th>
-         <th>No of views</th>
-         <th>Posted</th>
+        <th>Title</th>
+        <th>URL</th>
+        <th>Thumbnail URL</th>
+        <th>No of views</th>
+        <th>Posted</th>
       </tr>
-        {% for content in data %}
-      <tr>
-        <td>{{content['title']}}<br></td>
-        <td><a href="{{content['url']}}">{{content['url']}}</a></td>
-        <td><a href="{{content['thumbnail']}}">{{content['thumbnail']}}</a></td>
-        <td>{{content['views']}}</td>
-        <td>{{content['posted']}} </td>
-      </tr>
-        {% endfor %}
-   </table>
-</div>
-
-
-
+      
+      {% for i in range(0, data|length, 5) %}
+        <tr>
+          <td>{{ data[i] }}</td>
+          <td><a href="{{ data[i+1] }}">{{ data[i+1] }}</a></td>
+          <td><a href="{{ data[i+2] }}">{{ data[i+2] }}</a></td>
+          <td>{{ data[i+3] }}</td>
+          <td>{{ data[i+4] }}</td>
+        </tr>
+      {% endfor %}
+      
+    </table>
+  </div>
 </body>
 
 </html>
