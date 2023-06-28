@@ -1,0 +1,39 @@
+body, html {
+    margin: 0;
+    font-family: sans-serif;
+    background-color:aliceblue;
+}
+
+.content {
+    margin: 0 auto;
+    width: 400px;
+}
+
+table {
+    border-collapse: collapse;
+    border: 10px solid rgb(192, 41, 192);
+    width: 100%;
+}
+
+th {
+    height: 30px;
+    border:5px solid rgb(235, 90, 235);
+}
+
+td {
+    text-align: center;
+    border: 5px solid rgb(235, 90, 235);
+    padding: 8px;
+}
+
+tr:not(:last-child) {
+    border-bottom: 1px solid rgb(192, 41, 192);
+}
+
+.form {
+    margin-top: 20px;
+}
+
+#content {
+    width: 70%;
+}

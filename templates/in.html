@@ -1,0 +1,23 @@
+{% extends 'base.html' %}
+
+{% block head %}
+
+<title>Search Page</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+<link rel="stylesheet" href="D:\DataScience\Assignment\Assignment-7\yt_extractor\static\css\style.css">
+{% endblock %}
+
+{% block body %}
+<div class="main-block">
+    <h1>YT Data Extractor</h1>
+    <form action="/data" method="POST">
+      <hr>
+      <label id="icon" for="name"><i class="fas fa-envelope"></i></label>
+      <input type="text" name="name" id="name" placeholder="Channel ID" required/>
+      <hr>
+      <div class="btn-block">
+        <button type="submit" href="/">Submit</button>
+      </div>
+    </form>
+  </div>
+{% endblock %}

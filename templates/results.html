@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+  <meta charset="UTF-8">
+  <title>Content Page</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+
+
+</head>
+
+<body>
+
+  <div class="table-users">
+    <div class="header"></div>
+
+   <table cellspacing="0" border="1">
+      <tr border="1">
+         <th>Title</th>
+         <th>URL</th>
+         <th>Thumbnail URL</th>
+         <th>No of views</th>
+         <th>Posted</th>
+      </tr>
+        {% for content in data %}
+      <tr>
+        <td>{{content['title']}}<br></td>
+        <td><a href="{{content['url']}}">{{content['url']}}</a></td>
+        <td><a href="{{content['thumbnail']}}">{{content['thumbnail']}}</a></td>
+        <td>{{content['views']}}</td>
+        <td>{{content['posted']}} </td>
+      </tr>
+        {% endfor %}
+   </table>
+</div>
+
+
+
+</body>
+
+</html>
