@@ -1,0 +1,16 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:10000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2023 18:41:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2023 18:41:46] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2023 18:41:46] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2023 18:41:46] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:Response Got Successfully!
+INFO:root:URL fetched successfully!
+INFO:root:Thumbails fetched successfully!
+INFO:root:Title fetched successfully
+INFO:root:No of views fetched successfully
+INFO:root:Time of Post fetched successfully
+INFO:root:Final Data: ['I tried the Valorant TDM challenge 🏋️* Gone Wrong *', 'https://www.youtube.com/watch?v=LqbvYcl5aHA', 'https://i.ytimg.com/vi/LqbvYcl5aHA/hqdefault.jpg', '11,617 views', '2 weeks ago', 'Getting my Vision and Focus better - Eye Checkup Vlog | SkRossi', 'https://www.youtube.com/watch?v=XdTOHMb8Bbw', 'https://i.ytimg.com/vi/LqbvYcl5aHA/hqdefault.jpg', '18,952 views', '3 weeks ago', 'When *DUELIST* is the only option left', 'https://www.youtube.com/watch?v=LWvW9FoSAjw', 'https://i.ytimg.com/vi/LqbvYcl5aHA/hqdefault.jpg', '21,813 views', '4 weeks ago', 'Valorant Resolution confusion!!!!!', 'https://www.youtube.com/watch?v=HVfXaLYfE70', 'https://i.ytimg.com/vi/LqbvYcl5aHA/hqdefault.jpg', '20,804 views', '1 month ago', 'VERY COMPETITIVE AND FUNNY VALORANT LOBBY FT.@8bitBinks69 @VLTSentinel @AnkkitaC @Officialhellfcs', 'https://www.youtube.com/watch?v=fhyTLVTvi6U', 'https://i.ytimg.com/vi/XdTOHMb8Bbw/hqdefault.jpg', '76,248 views', '1 month ago']
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2023 18:41:51] "POST /data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2023 18:41:51] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
